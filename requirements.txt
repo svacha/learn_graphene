@@ -1,0 +1,5 @@
+graphene==0.7.0
+graphql-core==0.4.12
+graphql-relay==0.3.3
+six==1.10.0
+wheel==0.24.0
